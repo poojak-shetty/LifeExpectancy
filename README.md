@@ -27,7 +27,8 @@ It has the following features
 * thinness 1-19 years-Prevalence of thinness among children and adolescents for Age 10 to 19 (% )
 * thinness 5-9 years-Prevalence of thinness among children for Age 5 to 9(%)
 * Income composition of resources-Human Development Index in terms of income composition of resources (index ranging from 0 to 1)
-* Schooling-Number of years of Schooling(years)
+* Schooling-Number of years of Schooling(years).
+
 We are just taking the key features into consideration.Now lets get to my project.
 It has 4 parts,namely
 * The description
