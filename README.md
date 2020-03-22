@@ -37,3 +37,7 @@ It has 4 parts,namely
   * This includes importing necessary libraries,loading the dataset as in a csv file over here.
   * Checking if it has any null values,strings and unnecessary columns.Basically called as data preprocessing.
     * The link to this page is [DATA CLEANING AND PROCESSING](https://colab.research.google.com/drive/1HzixfGVbCFoTKbV2aXRbtJGcpmcObx32)
+* Data visualization 
+  * Here we have visualized the processed data using different plotting techniques.
+  * we have also found out the correlation and done our first model ie Linear regression
+   * The link to this page is [DATA VISUALIZATION AND LINEAR REGRESSION](https://colab.research.google.com/drive/1wHmO2ilU9qFYV_oj6l0uCREcNMXl3mB1)
