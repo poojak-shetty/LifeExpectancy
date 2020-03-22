@@ -28,4 +28,8 @@ It has the following features
 * thinness 5-9 years-Prevalence of thinness among children for Age 5 to 9(%)
 * Income composition of resources-Human Development Index in terms of income composition of resources (index ranging from 0 to 1)
 * Schooling-Number of years of Schooling(years)
-
+We are just taking the key features into consideration.Now lets get to my project.
+It has 4 parts,namely
+* The description
+  * Which gives one proper explanation about what the project is about.What is the aim of this project and all briefly.
+    *The link to this page is [DESCRIPTION PART](https://colab.research.google.com/drive/1JvB8dkzodRVzE1HHm8r9CTv2OZc6zO98)
