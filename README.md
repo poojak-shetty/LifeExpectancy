@@ -41,3 +41,14 @@ It has 4 parts,namely
   * Here we have visualized the processed data using different plotting techniques.
   * we have also found out the correlation and done our first model ie Linear regression
    * The link to this page is [DATA VISUALIZATION AND LINEAR REGRESSION](https://colab.research.google.com/drive/1wHmO2ilU9qFYV_oj6l0uCREcNMXl3mB1)
+* Multivariate polynomial regression
+  * Here we have used multivariate polynomial regression with respect to 2 and 3 features and seen the outcome.
+   * The link to this page is [MULTIVARIATE POLYNOMIAL REGRESSION](https://colab.research.google.com/drive/1fTHLJbJ08LigXfI-jmeZvBe3uLCxZjmB)
+   * A proper conclusion is also given in this page.
+   
+After all this,I will just highlight the output over here.
+MODEL NAME                        | ACCURACY
+--------------------------------- | -------------
+LINEAR REGRESSION                 | 91%
+MULTIVARIATE POLYNOMIAL REGRESSION| 92%(3 FEATURES),91%(2 FEATURES)
+                      
