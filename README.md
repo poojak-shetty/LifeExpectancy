@@ -4,6 +4,8 @@ Life expectancy is a statistical measure of the average time an organism is expe
 ##### The dataset is taken from Kaggle
 LINK TO THE DATASET IS 
 LIFE EXPECTANCY(WHO)(https://www.kaggle.com/kumarajarshi/life-expectancy-who)
+[Lets go to Quora](https://www.quora.com)
+
 It has the following features
 
 Country
