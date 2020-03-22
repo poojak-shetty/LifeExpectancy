@@ -1,6 +1,9 @@
 # Capstone-1
-A project based on ML to predict which features affect the life expectancy of a country.
-
+## Life expectancy(WHO)
+Life expectancy is a statistical measure of the average time an organism is expected to live, based on the year of its birth, its current age and other demographic factors including gender.This project is based on ML to predict which features affect the life expectancy of a country.
+##### The dataset is taken from Kaggle
+LINK TO THE DATASET IS 
+LIFE EXPECTANCY(WHO)(https://www.kaggle.com/kumarajarshi/life-expectancy-who)
 It has the following features
 
 Country
