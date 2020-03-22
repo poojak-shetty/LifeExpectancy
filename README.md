@@ -47,8 +47,12 @@ It has 4 parts,namely
    * A proper conclusion is also given in this page.
    
 After all this,I will just highlight the output over here.
-MODEL NAME                        | ACCURACY
+MODEL TYPE                        | ACCURACY
 --------------------------------- | -------------
 LINEAR REGRESSION                 | 91%
 MULTIVARIATE POLYNOMIAL REGRESSION| 92%(3 FEATURES),91%(2 FEATURES)
+### CONCLUSION
+Hence,I would like to conclude that
+* Life expectancy is affected by many features.There cannot be only 1 or 2 key features to highlight about.So,we have to experiment and observe various kind of aspects.
+* As we have got close accuracy values in both the models,we can say that both linear and multivariate polynomial regression are good.But,multivariate polynomial regression with 3 features is comparitively better as we got 8% error vale.
                       
