@@ -32,4 +32,8 @@ We are just taking the key features into consideration.Now lets get to my projec
 It has 4 parts,namely
 * The description
   * Which gives one proper explanation about what the project is about.What is the aim of this project and all briefly.
-    *The link to this page is [DESCRIPTION PART](https://colab.research.google.com/drive/1JvB8dkzodRVzE1HHm8r9CTv2OZc6zO98)
+    * The link to this page is [BRIEF ABOUT THE PROJECT](https://colab.research.google.com/drive/1JvB8dkzodRVzE1HHm8r9CTv2OZc6zO98)
+* Data cleaning
+  * This includes importing necessary libraries,loading the dataset as in a csv file over here.
+  * Checking if it has any null values,strings and unnecessary columns.Basically called as data preprocessing.
+    * The link to this page is [DATA CLEANING AND PROCESSING](https://colab.research.google.com/drive/1HzixfGVbCFoTKbV2aXRbtJGcpmcObx32)
